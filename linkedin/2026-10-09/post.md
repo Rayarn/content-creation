@@ -1,4 +1,4 @@
-# Post 6 · vendredi 9 octobre 2026 · cas d'usage n°3
+# Post 6 · vendredi 9 octobre 2026 · zoom sur l'assistant de l'outil du 30 septembre
 
 **Pilier :** IA appliquée  
 **Format :** texte + visuel, question finale
@@ -13,7 +13,8 @@
 « Comment la réversion est-elle calculée ? »
 « D'où vient cet écart ? »
 
-Si votre équipe reçoit ce genre de questions, ce cas va vous parler.
+Le 30 septembre, je vous présentais un outil de pilotage du passif d'un fonds de pension. Il intègre un assistant qui répond à ce genre de questions.
+Zoom sur ce cas d'usage, qui vaut pour toute équipe actuarielle.
 
 𝘾𝙤𝙣𝙩𝙚𝙭𝙩𝙚
 Tout au long de l'année, l'équipe reçoit des questions sur ses méthodes et ses résultats : de l'audit, de la direction, des nouveaux arrivants.
@@ -37,7 +38,7 @@ Et c'est souvent la même personne qu'on sollicite.
 -> Une trace de chaque question et de chaque réponse
 
 𝙋𝙧é𝙨𝙚𝙣𝙩𝙖𝙩𝙞𝙤𝙣 𝙙𝙚 𝙡𝙖 𝙨𝙤𝙡𝙪𝙩𝙞𝙤𝙣
-Un assistant, accessible depuis l'application, qui répond en s'appuyant uniquement sur la documentation de l'équipe et sur le code des calculs.
+Un assistant, intégré à l'outil de pilotage du passif, qui répond en s'appuyant uniquement sur la documentation de l'équipe et sur le code des calculs.
 Chaque affirmation est sourcée : l'assistant indique le document ou la fonction d'où elle vient.
 Chaque chiffre vient du moteur de calcul, jamais de l'IA.
 Le raisonnement est visible : on voit ce que l'assistant a cherché et lu.
@@ -50,8 +51,6 @@ L'assistant répond. Il ne décide pas. Le choix des méthodes, l'interprétatio
 
 𝙋𝙧𝙤𝙡𝙤𝙣𝙜𝙚𝙢𝙚𝙣𝙩
 Ajouter les réponses déjà validées lors des audits précédents, pour que chaque réponse enrichisse la suivante.
-
-Cet assistant fait partie de PensionPro, l'application présentée le 30 septembre.
 
 Quelle question revient le plus souvent dans votre équipe ?
 ```
