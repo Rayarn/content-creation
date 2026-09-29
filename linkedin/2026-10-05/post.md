@@ -1,15 +1,15 @@
 # Post 4 · lundi 5 octobre 2026 · cas d'usage n°2
 
 **Pilier :** Python / R / VBA  
-**Format :** texte + visuel avant/après, question finale
+**Format :** texte + visuel avant/après, question en un mot
 
 ## Texte
 
 ```text
-𝘾𝙖𝙨 𝙙'𝙪𝙨𝙖𝙜𝙚 : 𝙡'𝙖𝙪𝙩𝙤𝙢𝙖𝙩𝙞𝙨𝙖𝙩𝙞𝙤𝙣 𝙙𝙚𝙨 𝙨𝙘é𝙣𝙖𝙧𝙞𝙤𝙨 𝘼𝙇𝙈 𝙙𝙖𝙣𝙨 𝙀𝙭𝙘𝙚𝙡.
 𝙋𝙡𝙪𝙨 𝙙'𝙪𝙣𝙚 𝙨𝙚𝙢𝙖𝙞𝙣𝙚 𝙙𝙚 𝙩𝙧𝙖𝙫𝙖𝙞𝙡 𝙧𝙖𝙢𝙚𝙣é𝙚 à 𝟱 𝙢𝙞𝙣𝙪𝙩𝙚𝙨.
+𝘿𝙖𝙣𝙨 𝙀𝙭𝙘𝙚𝙡, 𝙖𝙫𝙚𝙘 𝙑𝘽𝘼.
 
-Ici, les scénarios d'actif d'une projection ALM. Mais si votre équipe prépare des fichiers à partir de plusieurs sources dans Excel, le schéma va vous parler.
+Cas d'usage : l'automatisation des scénarios d'actif d'une projection ALM. Si votre équipe prépare des fichiers à partir de plusieurs sources dans Excel, le schéma va vous parler.
 
 𝘾𝙤𝙣𝙩𝙚𝙭𝙩𝙚
 À chaque exercice de projection ALM, l'équipe produit les scénarios déterministes de l'actif.
@@ -46,7 +46,7 @@ Des contrôles automatiques de cohérence sur les fichiers produits, avant leur 
 
 L'outil en image, c'est celui que j'ai développé.
 
-Dans votre équipe, quelle tâche Excel mériterait ses 5 minutes ?
+Et dans votre équipe, pour automatiser : VBA, Python, ou les deux ?
 ```
 
 ## À joindre

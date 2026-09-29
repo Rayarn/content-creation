@@ -1,20 +1,20 @@
 # Post 6 · vendredi 9 octobre 2026 · zoom sur l'assistant de l'outil du 30 septembre
 
 **Pilier :** IA appliquée  
-**Format :** texte + visuel, question finale
+**Format :** texte + visuel, question oui/non
 
 ## Texte
 
 ```text
-𝘾𝙖𝙨 𝙙'𝙪𝙨𝙖𝙜𝙚 : 𝙡'𝙄𝘼 𝙥𝙤𝙪𝙧 𝙧é𝙥𝙤𝙣𝙙𝙧𝙚 𝙖𝙪𝙭 𝙦𝙪𝙚𝙨𝙩𝙞𝙤𝙣𝙨 𝙨𝙪𝙧 𝙫𝙤𝙨 𝙢é𝙩𝙝𝙤𝙙𝙚𝙨 𝙖𝙘𝙩𝙪𝙖𝙧𝙞𝙚𝙡𝙡𝙚𝙨.
-𝘼𝙫𝙚𝙘 𝙡𝙖 𝙨𝙤𝙪𝙧𝙘𝙚 𝙙𝙚 𝙘𝙝𝙖𝙦𝙪𝙚 𝙧é𝙥𝙤𝙣𝙨𝙚.
+𝙐𝙣𝙚 𝙦𝙪𝙚𝙨𝙩𝙞𝙤𝙣 𝙨𝙪𝙧 𝙫𝙤𝙨 𝙘𝙖𝙡𝙘𝙪𝙡𝙨.
+𝙐𝙣𝙚 𝙧é𝙥𝙤𝙣𝙨𝙚, 𝙖𝙫𝙚𝙘 𝙨𝙚𝙨 𝙨𝙤𝙪𝙧𝙘𝙚𝙨.
 
 « Quelle table a-t-on utilisée l'an dernier ? »
 « Comment la réversion est-elle calculée ? »
 « D'où vient cet écart ? »
 
 Le 30 septembre, je vous présentais un outil de pilotage du passif d'un fonds de pension. Il intègre un assistant qui répond à ce genre de questions.
-Zoom sur ce cas d'usage, qui vaut pour toute équipe actuarielle.
+Zoom sur ce cas d'usage de l'IA, qui vaut pour toute équipe actuarielle.
 
 𝘾𝙤𝙣𝙩𝙚𝙭𝙩𝙚
 Tout au long de l'année, l'équipe reçoit des questions sur ses méthodes et ses résultats : de l'audit, de la direction, des nouveaux arrivants.
@@ -52,7 +52,8 @@ L'assistant répond. Il ne décide pas. Le choix des méthodes, l'interprétatio
 𝙋𝙧𝙤𝙡𝙤𝙣𝙜𝙚𝙢𝙚𝙣𝙩
 Ajouter les réponses déjà validées lors des audits précédents, pour que chaque réponse enrichisse la suivante.
 
-Quelle question revient le plus souvent dans votre équipe ?
+Chez vous, ces questions tombent-elles toujours sur la même personne ?
+Oui ou non ?
 ```
 
 ## À joindre

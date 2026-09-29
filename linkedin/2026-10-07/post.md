@@ -1,7 +1,7 @@
 # Post 5 · mercredi 7 octobre 2026
 
 **Pilier :** IA appliquée  
-**Format :** texte + schéma, question finale
+**Format :** texte + schéma, question oui/non
 
 ## Texte
 
@@ -35,7 +35,8 @@ Et l'actuaire garde le dernier mot.
 
 C'est ainsi que fonctionne le cas de pilotage du passif présenté la semaine dernière. Et le principe vaut pour tout document chiffré : notes techniques, documentation de modèle, réponses à l'audit.
 
-Quel document de votre équipe aimeriez-vous recevoir en premier jet ?
+Laisseriez-vous une IA rédiger le premier jet de votre rapport, si elle n'avait pas le droit d'écrire un seul chiffre ?
+Oui ou non ?
 ```
 
 ## À joindre
