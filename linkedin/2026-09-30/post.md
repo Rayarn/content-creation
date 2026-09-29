@@ -1,7 +1,7 @@
 # Post 2 · mercredi 30 septembre 2026 · cas d'usage n°1
 
 **Pilier :** Automatisation actuarielle + IA  
-**Format :** carrousel 11 slides avec captures, question A/B + contact
+**Format :** carrousel 12 slides avec les captures finales de l'application, question A/B + contact
 
 > ⚠️ Ce texte contient une anecdote marquée [ANECDOTE À CONFIRMER]. Ne la publiez que si elle est vraie ; sinon, retirez-la ou remplacez-la par un vrai souvenir.
 
