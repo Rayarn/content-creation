@@ -3,6 +3,8 @@
 **Pilier :** Automatisation actuarielle + IA  
 **Format :** carrousel 11 slides avec captures, question A/B + contact
 
+> ⚠️ Ce texte contient une anecdote marquée [ANECDOTE À CONFIRMER]. Ne la publiez que si elle est vraie ; sinon, retirez-la ou remplacez-la par un vrai souvenir.
+
 ## Texte
 
 ```text
@@ -36,7 +38,7 @@ Ce travail prend généralement plusieurs semaines.
 
 𝙋𝙧é𝙨𝙚𝙣𝙩𝙖𝙩𝙞𝙤𝙣 𝙙𝙚 𝙡𝙖 𝙨𝙤𝙡𝙪𝙩𝙞𝙤𝙣
 Une application qui enchaîne tout le processus, des données au rapport.
-Un moteur actuariel calcule les provisions par assuré, l'analyse de mouvement (qui explique la variation au centime près) et les sensibilités. La première fois que le contrôle est tombé à 0,00 € d'écart, j'ai relancé le calcul trois fois pour y croire.
+Un moteur actuariel calcule les provisions par assuré, l'analyse de mouvement (qui explique la variation au centime près) et les sensibilités. [ANECDOTE À CONFIRMER, à retirer avant publication si inventée : La première fois que le contrôle est tombé à 0,00 € d'écart, j'ai relancé le calcul trois fois pour y croire.]
 Des garde-fous signalent tout résultat inhabituel.
 L'IA rédige le premier jet du rapport et répond aux questions sur les résultats. Elle n'écrit aucun chiffre et ne valide rien.
 La solution part de l'existant (mêmes données, mêmes méthodes) : du temps gagné, sans perdre la maîtrise des chiffres.

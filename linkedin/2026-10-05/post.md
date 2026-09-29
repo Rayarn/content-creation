@@ -3,6 +3,8 @@
 **Pilier :** Python / R / VBA  
 **Format :** texte + visuel avant/après, question en un mot
 
+> ⚠️ Ce texte contient une anecdote marquée [ANECDOTE À CONFIRMER]. Ne la publiez que si elle est vraie ; sinon, retirez-la ou remplacez-la par un vrai souvenir.
+
 ## Texte
 
 ```text
@@ -36,7 +38,7 @@ Plus d'une semaine de travail à chaque fois.
 
 𝙋𝙧é𝙨𝙚𝙣𝙩𝙖𝙩𝙞𝙤𝙣 𝙙𝙚 𝙡𝙖 𝙨𝙤𝙡𝙪𝙩𝙞𝙤𝙣
 Un outil VBA, directement dans Excel, avec une interface pensée comme une page web.
-La première fois que je l'ai montré, on m'a demandé sur quel site il tournait. Réponse : dans Excel.
+[ANECDOTE À CONFIRMER, à retirer avant publication si inventée : La première fois que je l'ai montré, on m'a demandé sur quel site il tournait. Réponse : dans Excel.]
 Trois étapes : préparer les données de la période cible, appliquer les scénarios et les chocs, produire les fichiers d'entrée.
 Pourquoi VBA ? Parce qu'il est déjà sur tous les postes. Pour une équipe qui travaille dans Excel, c'est souvent le chemin le plus court pour automatiser, sans lancer de projet informatique.
 Et non, un outil VBA n'a aucune raison d'être moche.

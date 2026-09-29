@@ -3,6 +3,8 @@
 **Pilier :** IA appliquée  
 **Format :** texte + schéma, question oui/non
 
+> ⚠️ Ce texte contient une anecdote marquée [ANECDOTE À CONFIRMER]. Ne la publiez que si elle est vraie ; sinon, retirez-la ou remplacez-la par un vrai souvenir.
+
 ## Texte
 
 ```text
@@ -13,7 +15,7 @@ Le calcul vient de tourner. Vous ouvrez le rapport, et le plus long est déjà f
 
 Et vous relisez l'esprit tranquille, parce qu'aucun nombre du texte n'a été écrit par l'IA.
 
-En construisant ce système, j'ai d'abord laissé l'IA rédiger librement, juste pour voir. Elle m'a rendu un paragraphe impeccable, fluide, convaincant. Avec une provision qui n'existait nulle part.
+[ANECDOTE À CONFIRMER, à retirer avant publication si inventée : En construisant ce système, j'ai d'abord laissé l'IA rédiger librement, juste pour voir. Elle m'a rendu un paragraphe impeccable, fluide, convaincant. Avec une provision qui n'existait nulle part.]
 
 Ce jour-là, je lui ai retiré le droit d'écrire des chiffres.
 
