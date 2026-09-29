@@ -13,6 +13,8 @@
 « Comment la réversion est-elle calculée ? »
 « D'où vient cet écart ? »
 
+Vous connaissez sûrement la scène : la même question sur une table de mortalité, posée trois fois dans la même semaine, par trois personnes différentes. Et à chaque fois, quelqu'un s'arrête pour aller chercher la réponse.
+
 Le 30 septembre, je vous présentais un outil de pilotage du passif d'un fonds de pension. Il intègre un assistant qui répond à ce genre de questions.
 Zoom sur ce cas d'usage de l'IA, qui vaut pour toute équipe actuarielle.
 
