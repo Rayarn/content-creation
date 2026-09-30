@@ -14,3 +14,9 @@ Chaque post a son dossier, nommé par sa date de publication : le texte est dans
 | [2026-10-05](linkedin/2026-10-05/post.md) | Post 4 | Python / R / VBA | texte + visuel avant/après, question en un mot |
 | [2026-10-07](linkedin/2026-10-07/post.md) | Post 5 | IA appliquée | texte + schéma, question oui/non |
 | [2026-10-09](linkedin/2026-10-09/post.md) | Post 6 (zoom sur l'assistant de l'outil du 30/09) | IA appliquée | texte + visuel, question oui/non |
+
+## Profil
+
+| Élément | Fichier | Contenu |
+|---|---|---|
+| Bannière (1584×396) | [cover-linkedin.png](linkedin/profil/cover-linkedin.png) · [@2x](linkedin/profil/cover-linkedin@2x.png) | « Moins de code. Plus d'actuariat. » |
